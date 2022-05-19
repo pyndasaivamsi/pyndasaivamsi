@@ -22,7 +22,7 @@
 ---
  
 ### Viewed by:
-![](https://komarev.com/ghpvc/?username=pyndasaivamsi&color=ff0000)
+![](https://komarev.com/ghpvc/?username=pyndasaivamsi&color=red)
 <br>
  
 <img src="https://github-readme-stats.vercel.app/api?username=pyndasaivamsi&&show_icons=true&title_color=ff0000&icon_color=ff0000&text_color=0000ff&bg_color=ffffff">
