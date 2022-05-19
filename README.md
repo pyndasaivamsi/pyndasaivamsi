@@ -1,5 +1,5 @@
-### Hey!! 👋
- Iam Sai Vamsi,a web development enthusiast looking forward to be a part of reputed web developers fam. 
+### Hey!! 👋 Iam Sai Vamsi
+ A web development enthusiast looking forward to be a part of reputed web developers fam. 
 <!--
 **pyndasaivamsi/pyndasaivamsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
