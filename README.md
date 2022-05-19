@@ -9,7 +9,7 @@
 - 🌱 Currently learning WEB DEVELOPMENT and training myself to become a good coder
 - 📫 Reach me at: pyndasaivamsi@gmail.com or v.pynda@iitg.ac.in 
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: Love to play chess and solve puzzles
+- ⚡ Loves playing chess and solving puzzles
 <!-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...-->
