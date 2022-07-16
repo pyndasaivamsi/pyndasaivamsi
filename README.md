@@ -1,5 +1,5 @@
 ### Hey!! 👋 Iam Sai Vamsi
- A Web Development enthusiast looking forward to excel in it. 
+ Iam a Web development enhusiast. Iam working on web dev projects in order to strengthen my skills. Iam having a good idea about different data structures in coding and trying to develop my coding profiles.  
 <!--
 **pyndasaivamsi/pyndasaivamsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
