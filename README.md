@@ -1,15 +1,15 @@
 ### Hey!! 👋 Iam Sai Vamsi
- Iam a Web development enhusiast. Iam working on web dev projects in order to strengthen my skills. Iam having a good idea about different data structures in coding and trying to develop my coding profiles.  
+ I am a Web development enthusiast, working on various web dev projects in order to strengthen my skills. I am having a good idea about different Data Structures in coding and trying to develop my coding profile.  
 <!--
 **pyndasaivamsi/pyndasaivamsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 ### About me:
 
-- 🔭 I’m an undergraduate pursuing B.Tech in Electronics and Communication at IIT Guwahati
+- 🔭 I’m an undergraduate student pursuing B.Tech in Electronics and Communication Engineering Branch at IIT Guwahati
 - 🌱 Currently learning WEB DEVELOPMENT and training myself to become a good coder
 - 📫 Reach me at: pyndasaivamsi@gmail.com or v.pynda@iitg.ac.in 
 - 😄 Pronouns: He/him
-- ⚡ Loves playing chess and solving puzzles
+- ⚡ Loves playing chess, dancing and solving puzzles
 <!-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...-->
