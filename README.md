@@ -1,4 +1,4 @@
-### Hey!! 👋 Iam Sai Vamsi
+### Hey!! 👋 I am Sai Vamsi
  I am an electronics enthusiast and explored web development as well in order to strengthen my skills. With a good idea about different Data Structures in coding, I am also trying to develop my coding profile.  
 <!--
 **pyndasaivamsi/pyndasaivamsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
