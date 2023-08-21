@@ -6,7 +6,7 @@
 ### About me:
 
 - 🔭 I’m an undergraduate student pursuing B.Tech in Electronics and Communication Engineering Branch at IIT Guwahati
-- 🌱 Currently learning WEB DEVELOPMENT and training myself to become a good coder
+- 🌱 Currently training myself to become fit for the corporate world and test my understanding of electronics in real-time
 - 📫 Reach me at: pyndasaivamsi@gmail.com or v.pynda@iitg.ac.in 
 - ⚡ Loves playing chess, dancing and solving puzzles
 <!-- - 😄 Pronouns: He/him -->
