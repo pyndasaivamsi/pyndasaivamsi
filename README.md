@@ -1,5 +1,5 @@
 ### Hey!! 👋 I am Sai Vamsi
- I am an electronics enthusiast and explored web development as well in order to strengthen my skills. With a good idea about different Data Structures in coding, I am also trying to develop my coding profile.  
+ I am an electronics enthusiast and explored web development as well in order to strengthen my skills. I am working hard to prepare myself for the challenges in this growing field of electronics. Looking forward to explore the practical usage of electronics in real time.  
 <!--
 **pyndasaivamsi/pyndasaivamsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
