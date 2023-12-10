@@ -1,5 +1,5 @@
 ### Hey!! 👋 I am Sai Vamsi
- I am an electronics enthusiast and explored web development as well in order to strengthen my skills. Looking forward to explore the practical usage of electronics in real-time.  
+ I am an Electronics enthusiast and explored Web development as well in order to strengthen my skills. Looking forward to explore the practical usage of electronics in real-time.  
 <!--
 **pyndasaivamsi/pyndasaivamsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
@@ -8,7 +8,7 @@
 - 🔭 I’m an undergraduate student pursuing B.Tech in Electronics and Communication Engineering Branch at IIT Guwahati
 - 🌱 Currently training myself to become fit for the corporate world and test my understanding of electronics in real-time
 - 📫 Reach me at: pyndasaivamsi@gmail.com or v.pynda@iitg.ac.in 
-- ⚡ Loves playing chess, dancing and solving puzzles
+- ⚡ Interested in playing Chess and Love to Dance
 <!-- - 😄 Pronouns: He/him -->
 <!-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
